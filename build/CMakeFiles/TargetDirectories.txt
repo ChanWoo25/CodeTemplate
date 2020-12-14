@@ -1,4 +1,0 @@
-C:/Users/leech/Desktop/Projects/LeetCode/build/CMakeFiles/out.dir
-C:/Users/leech/Desktop/Projects/LeetCode/build/CMakeFiles/Tool.dir
-C:/Users/leech/Desktop/Projects/LeetCode/build/CMakeFiles/edit_cache.dir
-C:/Users/leech/Desktop/Projects/LeetCode/build/CMakeFiles/rebuild_cache.dir
