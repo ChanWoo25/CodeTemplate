@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/leech/Desktop/Projects/LeetCode/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/out.dir/includes_CXX.rsp -g -o CMakeFiles\\out.dir\\main.cpp.obj -c C:\\Users\\leech\\Desktop\\Projects\\LeetCode\\main.cpp",
+  "file": "C:/Users/leech/Desktop/Projects/LeetCode/main.cpp"
+},
+{
+  "directory": "C:/Users/leech/Desktop/Projects/LeetCode/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DTool_EXPORTS @CMakeFiles/Tool.dir/includes_CXX.rsp -g -o CMakeFiles\\Tool.dir\\src\\DLL.cpp.obj -c C:\\Users\\leech\\Desktop\\Projects\\LeetCode\\src\\DLL.cpp",
+  "file": "C:/Users/leech/Desktop/Projects/LeetCode/src/DLL.cpp"
+}
+]
